@@ -1,5 +1,5 @@
 <h2> 🎄MyAdventJS🎄 </h2> 
-📅 Progreso de mis prácticas de JS con los AdventsJS de MiduDev
+📅 Progreso de mis prácticas en JavaScript con los AdventsJS Calendars de MiduDev
 <br>
 
 <br>
